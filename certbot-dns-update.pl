@@ -8,7 +8,7 @@
 # --manual-auth-hook '/path/to/certbot-dns-update.pl -u'
 # --manual-cleanup-hook '/path/to/certbot-dns-update.pl -d'
 #
-# https://github.com/WillCodeForCats
+# https://github.com/WillCodeForCats/le-certbot-dns-update
 #
 
 use strict;
